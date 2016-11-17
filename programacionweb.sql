@@ -1,6 +1,6 @@
 -- --------------------------------------------------------
 -- Host:                         localhost
--- Versión del servidor:         5.7.10-log - MySQL Community Server (GPL)
+-- Versión del servidor:     '    5.7.10-log - MySQL Community Server (GPL)
 -- SO del servidor:              Win32
 -- HeidiSQL Versión:             9.3.0.4984
 -- --------------------------------------------------------
